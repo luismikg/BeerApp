@@ -11,9 +11,8 @@ This App has been developed as part of a Exercise to consume the [PUNK API](http
 
 |Login|Shoes list|Shoe detail|
 |---|---|---|
-|![login](https://github.com/luismikg/BeerApp/blob/images/images/login.jpeg)|![list]
-(https://github.com/luismikg/BeerApp/blob/images/images/list_beer.jpeg)|![detail]
-(https://github.com/luismikg/BeerApp/blob/images/images/detail_beer.jpeg)|
+|![login](https://github.com/luismikg/BeerApp/blob/images/images/login.jpeg)|![list](https://github.com/luismikg/BeerApp/blob/images/images/list_beer.jpeg)|![detail(https://github.com/luismikg/BeerApp/blob/images/images/detail_beer.jpeg)|
+
 
 ---
 
