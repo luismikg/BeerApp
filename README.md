@@ -7,9 +7,9 @@ This App has been developed as part of a Exercise to consume the [PUNK API](http
 * Beer list
 * Beer detail
 
-|Login|Onboarding|Instruction screen 1|Instruction screen 2|Shoes list|Shoe detail|
+|Login|Shoes list|Shoe detail|
 |---|---|---|---|---|---|
-|![login](https://github.com/luismikg/ShoeStoreInventory/blob/imagesForReadme/images/login.png)|![welcome](https://github.com/luismikg/ShoeStoreInventory/blob/imagesForReadme/images/welcome.png)|![instruction1](https://github.com/luismikg/ShoeStoreInventory/blob/imagesForReadme/images/instruction_1.png)|![instruction2](https://github.com/luismikg/ShoeStoreInventory/blob/imagesForReadme/images/instruction_2.png)|![list](https://github.com/luismikg/ShoeStoreInventory/blob/imagesForReadme/images/shoe_list.png)|![detail](https://github.com/luismikg/ShoeStoreInventory/blob/imagesForReadme/images/shoe_detail.png)|
+|![login](https://github.com/luismikg/BeerApp/blob/images/images/login.jpeg)|![list](https://github.com/luismikg/BeerApp/blob/images/images/list_beer.jpeg)|![detail](https://github.com/luismikg/BeerApp/blob/images/images/detail_beer.jpeg)|
 
 ---
 
