@@ -50,6 +50,7 @@ Designed for Phones and NOT for Tablets
 
 ## Icon and Image credits
 
-* Beer Icon is from: Romli Ahmad from the  [Noun Project](https://thenounproject.com/).
+* Beer App Icon is from: Freepik from the [Freepik](https://www.freepik.com).
+* Beer dummy Icon is from: Romli Ahmad from the  [Noun Project](https://thenounproject.com/).
 * Like Icon is from: Trang5000 from the  [Noun Project](https://thenounproject.com/).
 * Other images: [dribbble](https://dribbble.com/) and [Google Material Desinger](https://material.io/resources/icons/?style=baseline)
